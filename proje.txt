@@ -1,3 +1,5 @@
 proje dosyası oluşturuldu. geliştirilmeye hazır-main
 ikinci satır-dev1
 ikinci satır-dev2
+üçüncü satır-dev1
+
